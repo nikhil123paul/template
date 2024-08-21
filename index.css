@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    background-color: darkgrey;
+    width: 100%;
+
+}
+nav ul li{
+    list-style: none;
+}
+ul li a{
+    margin-inline: 30px;
+    font-size: larger;
+}
+.img1{
+    margin-left: 800px;
+    height: 300px;
+    margin-top: -100px;
+}
+.trends{
+    margin-left: 50px;
+}
+.ist{
+        margin-left: 280px;
+        margin-top: 150px;
+        
+}
+#boy{
+    margin-left:  670px;
+    margin-top: -290px;
+    height: 350px;
+}
+/* #girl{
+    margin-left: 370px;
+    margin-top: -400px;
+    height: 300px;
+    width: 299px;
+} */
+ .btn{
+    background-color: rgb(10, 107, 107);
+ }
+ .form{
+    background-color: rgb(221, 228, 228);
+    width: 900px;
+    margin-left: 100px;
+ }
+ .about{
+    margin-left: 140px;
+ }
+ 
